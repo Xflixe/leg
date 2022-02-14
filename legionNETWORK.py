@@ -1,7 +1,6 @@
 import cloudscraper
 import requests
 from bs4 import BeautifulSoup
-from ctypes import windll
 from gc import collect
 from loguru import logger
 from names import get_first_name
@@ -21,7 +20,6 @@ disable_warnings()
 system("cls")
 def clear(): return system('cls')
 print('Telegram Channel - https://t.me/n4z4v0d\n')
-windll.kernel32.SetConsoleTitleW('LegionNetwork Auto Reger | by overgoodman&NAZAVOD')
 logger.remove()
 logger.add(stderr, format="<white>{time:HH:mm:ss}</white> | <level>{level: <8}</level> | <cyan>{line}</cyan> - <white>{message}</white>")
 

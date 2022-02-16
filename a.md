@@ -50,7 +50,7 @@ python get-pip.py
 ## Usage
 
 ```js
-wget https://bootstrap.pypa.io/get-pip.py
+wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
 ```
 ## Usage
 

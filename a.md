@@ -12,7 +12,7 @@
 ## Install
 
 ```
-$ npm install copy-text-to-clipboard
+pip install -r requirements.txt
 ```
 
 ## Usage

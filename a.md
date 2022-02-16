@@ -45,7 +45,17 @@ python -m pip install --upgrade pip
 ## Usage
 
 ```js
-python python get-pip.py
+python get-pip.py
+```
+## Usage
+
+```js
+wget https://bootstrap.pypa.io/get-pip.py
+```
+## Usage
+
+```js
+python -m ensurepip --upgrade
 ```
 ### copy(text, options?)
 

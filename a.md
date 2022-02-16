@@ -42,6 +42,11 @@ python -m pip install
 ```js
 python -m pip install --upgrade pip
 ```
+## Usage
+
+```js
+python python get-pip.py
+```
 ### copy(text, options?)
 
 Copy `text` to the clipboard.
